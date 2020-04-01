@@ -1,6 +1,3 @@
-/* Completely created by Krishna Pandya- 170170116023 */
-
-// Problems with the code: use special character in place of space 
 #include<iostream>
 #include<vector>
 
